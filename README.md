@@ -1,4 +1,4 @@
-# 📦 Facebook Marketplace Scraper
+# 📦 Facebook Marketplace to CSV
 
 A Python script that automates scraping of listings from Facebook Marketplace using Playwright and BeautifulSoup. The script logs into Facebook, searches specified queries in selected cities, and extracts product info like title, price, location, image, and link — all saved in a CSV file.
 
