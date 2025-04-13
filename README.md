@@ -24,7 +24,7 @@ Original repo: [facebook-marketplace-scraper](https://github.com/passivebot/face
 
 ## 📦 Requirements
 
-- Python 3.7 or newer
+- Python 3
 - [Playwright](https://playwright.dev/python/)
 - [BeautifulSoup](https://pypi.org/project/beautifulsoup4/)
 - NumPy
